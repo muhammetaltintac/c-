@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1612267713 source:c:\users\dell\documents\codeblocks\donem ortalama hesaplama\main.c
-	<stdio.h>
-	<stdlib.h>
-	<locale.h>
-
